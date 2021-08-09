@@ -3,4 +3,4 @@ Shelf is a group chat and resource sharing app specially created for classroom p
 
 ## Screenshots
 
-![ss1](screenshots\1.png)
+![ss1](screenshots/1.png)
