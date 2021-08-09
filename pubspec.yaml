@@ -1,0 +1,81 @@
+name: shelf
+description: A classroom app.
+
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.0.5
+  firebase_core: ^1.1.0
+  firebase_auth: ^1.1.3
+  cloud_firestore: ^2.0.0
+  firebase_storage: ^8.0.5
+  flutter_spinkit: ^4.1.2
+  file_picker: ^3.0.1
+  image_picker: ^0.7.4
+  flutter_downloader: ^1.6.0
+  permission_handler: ^7.1.0
+  path_provider: ^2.0.1
+  url_launcher: ^6.0.3
+  font_awesome_flutter: ^9.0.0
+  expansion_tile_card: ^2.0.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: "^0.8.0"
+
+flutter_icons:
+  image_path: "assets/icon/Shelf_log.png" 
+  android: true
+  ios: true
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/shelf_ab.png 
+    - assets/shelf_logo_wobg.png
+    - assets/placeholder1.png   
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
